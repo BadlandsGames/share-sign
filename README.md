@@ -1,0 +1,2 @@
+# share-sign
+PHP handler.
